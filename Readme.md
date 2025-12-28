@@ -1,4 +1,4 @@
-# Models of Suppl Chain Systems
+# Models of Supply Chain Systems
 
 ## Little's Law
  \(I=R\times T\) (or \(L=\lambda W\))
